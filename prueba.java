@@ -8,5 +8,6 @@ public class HolaMundo {
 	System.out.println("me gusta el pene");
 	System.out.println("dale que daleeeee ee eee ee agus");
 	System.out.println("wachinnnnnn");
+	System.out.println("soy maricon");
 
 }
