@@ -11,6 +11,6 @@ public class HolaMundo {
 	System.out.println("soy maricon");
 
 
-	System.out.println("fork agus");
+	System.out.println("fork aagus");
 
 }
